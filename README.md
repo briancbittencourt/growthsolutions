@@ -1,2 +1,1 @@
-# growthsolutions
-Soluções de Growth
+Aqui você encontra tudo sobre Growth.
